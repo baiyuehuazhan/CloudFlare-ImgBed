@@ -70,7 +70,7 @@ CloudFlare ImgBed is a self-hosted image and file hosting solution for Docker an
 
 # 2. 🖥️ Demo
 
-**Demo Address**: [CloudFlare ImgBed](https://cfbed.1314883.xyz/) · **Access Password**: `cfbed`
+**Demo Address**: [CloudFlare ImgBed](https://tutu.hzxq.asia/) · **Access Password**: `cfbed`
 
 ![Upload Page](readme/upload.png)
 
